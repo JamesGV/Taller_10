@@ -23,4 +23,4 @@
 
 ![alt text](img/pantallazo_duberly_5.jpg "quinto pantallazo")
 
-##PANTALLAZOS TALLER #10 DESDE LA RAMA JAMES
+## PANTALLAZOS TALLER #10 DESDE LA RAMA JAMES
